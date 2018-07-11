@@ -1,0 +1,13 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "Freecodecamp microservice project",
+  "main": "server.js",
+  "repository": "git@github.com:hagnerd/request-header-parser.git",
+  "author": "Matt Hagner <web@matthagner.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
